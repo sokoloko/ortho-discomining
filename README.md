@@ -1,10 +1,10 @@
-# SOP for mining and establishing TROSPA orthologs from _Ixodes_ ticks
+# SOP for mining and establishing orthologs from nonmodel species
 
-Reproducible, remote-first SOP for building a curated **Ixodes TROSPA** sequence dataset for downstream comparative and co-evolutionary analysis with **Borrelia OspA**.
+Reproducible SOP for building a curated _Ixodes_ TROSPA sequence dataset for downstream comparative and co-evolutionary analysis with _Borrelia_.
 
 ## Project goal
 
-This repository documents a lightweight workflow for identifying, retrieving, curating, and validating **TROSPA/TrospA** protein candidates from **Ixodes** ticks while minimizing large downloads. The workflow is designed for a beginner lab member working on **Ubuntu LTS in VirtualBox on a Windows laptop**.
+This repository documents a lightweight workflow for identifying, retrieving, curating, and validating **TROSPA** protein candidates from **_Ixodes_** ticks while minimizing large downloads. The workflow is designed for a beginner lab member working on **Ubuntu LTS in VirtualBox on a Windows laptop**.
 
 ## Core principles
 
