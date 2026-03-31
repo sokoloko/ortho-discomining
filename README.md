@@ -1,4 +1,4 @@
-# ixodes-trospa-sop
+# SOP for mining and establishing TROSPA orthologs from _Ixodes_ ticks
 
 Reproducible, remote-first SOP for building a curated **Ixodes TROSPA** sequence dataset for downstream comparative and co-evolutionary analysis with **Borrelia OspA**.
 
