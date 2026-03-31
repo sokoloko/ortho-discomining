@@ -84,5 +84,5 @@ Do commit:
 - MAFFT: https://mafft.cbrc.jp/alignment/software/
 - MMseqs2: https://github.com/soedinglab/MMseqs2
 - DIAMOND: https://github.com/bbuchfink/diamond
-- IQ-TREE 2: https://www.iqtree.org/
+- IQ-TREE: https://www.iqtree.org/
 - SRA Toolkit: https://www.ncbi.nlm.nih.gov/sra/docs/toolkitsoft/
